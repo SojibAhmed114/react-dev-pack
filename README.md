@@ -8,28 +8,28 @@ This handpicked pack brings together essential tools to boost productivity, stre
 >
 > ## Extensions Included
 > 
-> *    "aaron-bond.better-comments",
-> *    "adpyke.codesnap",
-> *    "be5invis.vscode-custom-css",
-> *    "bradgashler.htmltagwrap",
-> *    "bradlc.vscode-tailwindcss",
-> *    "dbaeumer.vscode-eslint",
-> *    "dsznajder.es7-react-js-snippets",
-> *   "esbenp.prettier-vscode",
-> *    "formulahendry.auto-close-tag",
-> *    "formulahendry.auto-rename-tag",
-> *    "ionutvmi.path-autocomplete",
-> *    "kisstkondoros.vscode-gutter-preview",
-> *    "naumovs.color-highlight",
-> *    "oderwat.indent-rainbow",
-> *    "pkief.material-icon-theme",
-> *    "pranaygp.vscode-css-peek",
-> *    "rangav.vscode-thunder-client",
-> *   "ritwickdey.liveserver",
-> *    "sojibahmed.one-dark-night-theme",
-> *    "steoates.autoimport",
-> *    "streetsidesoftware.code-spell-checker",
-> *    "wallabyjs.quokka-vscode"
+> *    Auto Close Tag
+> * Auto Import
+> * Auto Rename Tag
+> * Better Comments
+> * Code Spell Checker
+> * CodeSnap
+> * Color Highlight
+> * CSS Peek
+> * Custom CSS and JS Loader
+> * ES7+ React/Redux/React-Native snippets
+> * ESLint
+> * htmltagwrap
+> * Image preview
+> * indent-rainbow
+> * Live Server
+> * Material Icon Theme
+> * One Dark Night Theme
+> * Path Autocomplete
+> * Prettier - Code formatter
+> * Quokka.js
+> * Tailwind CSS IntelliSense
+> * Thunder Client
 
 >
 
