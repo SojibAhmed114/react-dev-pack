@@ -1,0 +1,72 @@
+{
+  "name": "react-dev-pack",
+  "displayName": "React Dev Pack",
+  "description": "A curated collection of essential VS Code extensions pack to supercharge your React development workflow.",
+  "publisher": "sojibahmed",
+  "author": {
+    "name": "sojib ahmed"
+  },
+  "icon": "/image/reactPack.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SojibAhmed114/midnight-cloud"
+  },
+  "galleryBanner": {
+    "color": "#006d5d"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "react dev pack",
+    "react dev",
+    "react pack",
+    "React Dev Pack",
+    "reactdevpack",
+    "react extensions pack",
+    "react toolkit",
+    "react",
+  "react js",
+  "react developer tools",
+  "react devtools",
+  "react snippets",
+  "eslint-plugin-react",
+  "prettier",
+  "typescript react",
+  "react debugging tools",
+  "es6",
+  "node",
+  "javascript"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "adpyke.codesnap",
+    "be5invis.vscode-custom-css",
+    "bradgashler.htmltagwrap",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "ionutvmi.path-autocomplete",
+    "kisstkondoros.vscode-gutter-preview",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "rangav.vscode-thunder-client",
+    "ritwickdey.liveserver",
+    "sojibahmed.one-dark-night-theme",
+    "steoates.autoimport",
+    "streetsidesoftware.code-spell-checker",
+    "wallabyjs.quokka-vscode"
+  ]
+}
+
+
+
