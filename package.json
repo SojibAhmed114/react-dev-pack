@@ -6,14 +6,14 @@
   "author": {
     "name": "sojib ahmed"
   },
-  "icon": "/image/reactPack.png",
+  "icon": "reactPack.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SojibAhmed114/midnight-cloud"
+    "url": "https://github.com/SojibAhmed114/react-dev-pack"
   },
   "galleryBanner": {
     "color": "#006d5d"
@@ -30,17 +30,17 @@
     "react extensions pack",
     "react toolkit",
     "react",
-  "react js",
-  "react developer tools",
-  "react devtools",
-  "react snippets",
-  "eslint-plugin-react",
-  "prettier",
-  "typescript react",
-  "react debugging tools",
-  "es6",
-  "node",
-  "javascript"
+    "react js",
+    "react developer tools",
+    "react devtools",
+    "react snippets",
+    "eslint-plugin-react",
+    "prettier",
+    "typescript react",
+    "react debugging tools",
+    "es6",
+    "node",
+    "javascript"
   ],
   "extensionPack": [
     "aaron-bond.better-comments",
